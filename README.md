@@ -1,2 +1,3 @@
-# BaseDeDatosXami
-Es una pequeña base de datos para la papeleria Xami
+# Aplicación inicial de electron
+
+Un ejemplo para la clase
